@@ -1,0 +1,13 @@
+package com.demo.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class TestController {
+
+	@RequestMapping(value="/test1", method=RequestMethod.GET)
+	public String test1_get() {
+		return"test1";
+	}
+}

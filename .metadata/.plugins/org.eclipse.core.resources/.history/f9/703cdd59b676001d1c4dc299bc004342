@@ -1,0 +1,17 @@
+package com.demo.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class TestController {
+
+	@GETMapping("/test1")
+	public String test1_get() {
+		return"test1";
+	}
+	@POSTtMapping("/test2")
+	public String test2_get() {
+		return"test2";
+	}
+}
+

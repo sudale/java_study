@@ -1,0 +1,5 @@
+package com.demo.beans.copy;
+
+public class DataBean {
+
+}

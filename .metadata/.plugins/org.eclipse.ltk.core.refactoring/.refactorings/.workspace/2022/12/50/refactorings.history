@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;GetParameterObject&apos;" deleteContents="true" description="Delete resource &apos;GetParameterObject&apos;" element1="/GetParameterObject" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1670480133856"/>&#x0A;<refactoring comment="Delete resource &apos;ViewResolver&apos;" deleteContents="true" description="Delete resource &apos;ViewResolver&apos;" element1="/ViewResolver" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1670482864208"/>
+</session>
