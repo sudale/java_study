@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="ViewResolver"/>
 <aop-project name="URLMapping"/>
 <aop-project name="RequestMethod"/>
 <aop-project name="GetParameter"/>
 <aop-project name="SpringMVCStep1"/>
+<aop-project name="GetParameterObject"/>
 </aop-reference-model>

@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="ViewResolver"/>
+			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
 			<item value="URLMapping"/>
@@ -11,6 +13,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="ViewResolver"/>
+			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
 			<item value="URLMapping"/>
