@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="Session"/>
 <aop-project name="ViewResolver"/>
 <aop-project name="URLMapping"/>
-<aop-project name="RequestMethod"/>
+<aop-project name="Validate"/>
+<aop-project name="FormTag"/>
+<aop-project name="Interceptor"/>
+<aop-project name="RequestScope"/>
 <aop-project name="GetParameter"/>
+<aop-project name="RequestMethod"/>
 <aop-project name="SpringMVCStep1"/>
+<aop-project name="Properties"/>
 <aop-project name="GetParameterObject"/>
+<aop-project name="Cookie"/>
 </aop-reference-model>

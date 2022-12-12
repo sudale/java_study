@@ -2,6 +2,13 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="Interceptor"/>
+			<item value="Validate"/>
+			<item value="Properties"/>
+			<item value="Cookie"/>
+			<item value="Session"/>
+			<item value="RequestScope"/>
+			<item value="FormTag"/>
 			<item value="ViewResolver"/>
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
@@ -13,6 +20,13 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Interceptor"/>
+			<item value="Validate"/>
+			<item value="Properties"/>
+			<item value="Cookie"/>
+			<item value="Session"/>
+			<item value="RequestScope"/>
+			<item value="FormTag"/>
 			<item value="ViewResolver"/>
 			<item value="GetParameterObject"/>
 			<item value="GetParameter"/>
