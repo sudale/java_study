@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="MiniProject"/>
+			<item value="Mybatis"/>
+			<item value="HandleException"/>
 			<item value="Interceptor"/>
 			<item value="Validate"/>
 			<item value="Properties"/>
@@ -14,12 +17,13 @@
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
 			<item value="URLMapping"/>
-			<item value="SpringMVCVml"/>
-			<item value="SpringMVCStep1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MiniProject"/>
+			<item value="Mybatis"/>
+			<item value="HandleException"/>
 			<item value="Interceptor"/>
 			<item value="Validate"/>
 			<item value="Properties"/>
@@ -32,8 +36,6 @@
 			<item value="GetParameter"/>
 			<item value="RequestMethod"/>
 			<item value="URLMapping"/>
-			<item value="SpringMVCVml"/>
-			<item value="SpringMVCStep1"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
