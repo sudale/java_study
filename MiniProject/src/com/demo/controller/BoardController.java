@@ -12,6 +12,7 @@ public class BoardController {
 	public String main() {
 		return "board/main";
 	}
+	
 	@GetMapping("/read")
 	public String read() {
 		return "board/read";
@@ -30,7 +31,6 @@ public class BoardController {
 	@GetMapping("/delete")
 	public String delete() {
 		return "board/delete";
-	}
-
+	}	
 
 }

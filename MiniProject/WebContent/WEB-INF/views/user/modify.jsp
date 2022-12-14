@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<c:set var='root' value="${pageContext.request.contextPath }/"/>  
+<c:set var='root' value="${pageContext.request.contextPath }/"/>
 <!DOCTYPE html>
 <html>
   <head>
@@ -18,8 +18,10 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
   </head>
   <body>
-   <c:import url="/WEB-INF/views/include/menu.jsp" />
- <div class="container" style="margin-top: 100px">
+ 	<!-- 상단 메뉴부분 -->
+	<c:import url="/WEB-INF/views/include/menu.jsp" />
+
+    <div class="container" style="margin-top: 100px">
       <div class="row">
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
@@ -81,6 +83,7 @@
       </div>
     </div>
 
-   <c:import url="/WEB-INF/views/include/footer.jsp" />
+ 	<!-- 하단 푸터부분 -->
+	<c:import url="/WEB-INF/views/include/footer.jsp" />
   </body>
 </html>

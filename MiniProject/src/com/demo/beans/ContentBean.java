@@ -1,6 +1,7 @@
 package com.demo.beans;
 
 public class ContentBean {
+	
 	private int content_idx;
 	private String content_subject;
 	private String content_text;
@@ -8,6 +9,7 @@ public class ContentBean {
 	private int content_writer_idx;
 	private int content_board_idx;
 	private String content_date;
+	
 	public int getContent_idx() {
 		return content_idx;
 	}
@@ -50,7 +52,7 @@ public class ContentBean {
 	public void setContent_date(String content_date) {
 		this.content_date = content_date;
 	}
-
-
+	
+	
 
 }

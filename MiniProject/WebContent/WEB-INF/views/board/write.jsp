@@ -21,7 +21,6 @@
 	<!-- 상단 메뉴부분 -->
 	<c:import url="/WEB-INF/views/include/menu.jsp" />
 
-    
     <div class="container" style="margin-top: 100px">
       <div class="row">
         <div class="col-sm-3"></div>
@@ -65,7 +64,6 @@
         <div class="col-sm-3"></div>
       </div>
     </div>
-
 
 	<!-- 하단 푸터부분 -->
 	<c:import url="/WEB-INF/views/include/footer.jsp" />

@@ -96,8 +96,7 @@
         <div class="col-sm-3"></div>
       </div>
     </div>
-
-
+    
 	<!-- 하단 푸터부분 -->
 	<c:import url="/WEB-INF/views/include/footer.jsp" />
   </body>
